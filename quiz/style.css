@@ -1,0 +1,16 @@
+body{
+    background-color: orange;
+}
+.start {
+    text-align: center;
+    margin-top: 7%;
+}
+.option{
+    margin: 15px;
+}
+.btn{
+    margin: 3%;
+}
+.add-answer{
+    margin: 15px;
+}
